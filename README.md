@@ -4,7 +4,7 @@
 
 Você quer nos ajudar a traduzir este curso do [Learning Lab](https://lab.github.com/) do GitHub do inglês para o português? 
 
-Que bom!! Por favor [comece aqui](https://github.com/brasilidade/communicating-using-makdown/issues/1)
+Que bom!! Por favor [comece aqui](https://github.com/brasilidade/communicating-using-markdown/issues/1)
 
 
 Muito obrigada por participar e ajudar a fazer esse material mais inclusivo para nossa comunidade de devs! 
